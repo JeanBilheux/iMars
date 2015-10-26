@@ -1,0 +1,12 @@
+iMars (Imaging  MAnipulation  Reduction  Software) is  sponsored  by  
+the  Scientific  User  Facilities  Division,  Office  of  Basic  Energy
+Sciences, U.S.  Department  of  Energy,  which  is  managed  by  
+UT-Battelle,  LLC.,  and  developed at  Oak  Ridge  National  Laboratory.
+
+Contributing  Developers  (in  alphabetical  order):
+- Jean  Bilheux,  Neutron  Sciences  Directorate,
+- Jun  Jia,  Computing  and  Computational  Sciences,
+- Misun  Kang,  Neutron  Sciences  Directorate,
+- Sophie  Voisin,  Computing  and  Computational  Sciences,
+
+Contact  email:  bilheuxjm@ornl.gov
