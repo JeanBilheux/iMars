@@ -104,8 +104,8 @@ function runCombineInBatch(inputFolder, ...
             finalImage = addImages(imagesArray);
             
     end
-    finalImage = squeeze(finalImage);
-    fitswrite(finalImage,outputFileName);
+    finalImage = single(squeeze(finalImage));
+    fitswrite(finalImage, outputFileName);
     
 end
 
